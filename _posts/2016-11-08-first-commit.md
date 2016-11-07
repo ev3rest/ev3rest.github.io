@@ -23,7 +23,7 @@ Hi everyone, today I would like to share some tips for beginner developers. This
 Definitely, this is the best and most user-frienly shell I have ever seen. 
 
 
-One of fish’s best features is autocompletion. It knows what you’re thinking, and will gladly save you the keystrokes by finishing your command for you. Just press Tab.
+One of fish’s best features is <b>autocompletion</b>. It knows what you’re thinking, and will gladly save you the keystrokes by finishing your command for you. Just press Tab.
 
 Although it’s an innovative feature, at least as far as terminal shells go, it’s not all that complicated. It makes its assumptions based upon a combination of guesswork, and your command line history.
 
@@ -35,7 +35,7 @@ Python is often compared to other interpreted languages such as Java, JavaScript
 
 
 By this I mean that the syntax of Python is extremely easy to learn and read. Python code is not that far off from actual English and pretty damn close to psuedocode. Sometimes, I'll copy psuedocode from Wikipedia, add a few colons and then I have a working Python program. And plus look at the turnary operators in Python vs C++
-<br>
+<p>
 Python:
 
 <code>X = "hello" if True else "world"</code>
@@ -45,7 +45,7 @@ C++:
 <code>X = true ? "Hello" : "world";</code>
 
 Which one is more readable?
-<br>
+</p>
 
 
 <b>Despite (or perhaps because of) the simple syntax, it's extremely expressive</b>
