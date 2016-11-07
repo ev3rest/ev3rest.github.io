@@ -7,8 +7,8 @@ categories: personal
 tags: 
   - blogging
   - jekyll
-imagefeature: "gtx.jpg"
-comments: true
+imagefeature: "images/gtx.jpg"
+comments: false
 mathjax: null
 featured: true
 published: true
