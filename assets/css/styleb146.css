@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
       color: black; }
   @media only screen and (min-width: 40.063em) {
     .summer-content .summer-index-post .summer-post-header .summer-post-title {
-      text-align: center;
+      text-align: left;
       font-size: 2.125rem;
       margin-bottom: 0.9375rem; } }
   .summer-content .summer-index-post .summer-post-excerpt {
