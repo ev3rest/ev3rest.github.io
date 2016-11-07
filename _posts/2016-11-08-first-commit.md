@@ -51,7 +51,7 @@ Which one is more readable?
 
 
 
-<b>Despite (or perhaps because of) the simple syntax, it's extremely expressive</b>
+<b>Despite (or perhaps because of) the simple syntax, it's extremely expressive.</b>
 
 When writing up a Python program, I can express the same amount of logic in three lines that takes me 7 in C++.
 
@@ -60,7 +60,7 @@ Plus you have all these really nice builtins
 Things like packing and unpacking, generators, default arguments, the fact that almost everything is an object, the builtins libraries like functools, urllib, etc… really gives more power to the programmer.
 
 
-<b>And there are a dozens of libraries</b>
+<b>And there are a dozens of libraries.</b>
 
 There is a library for almost anything you want to do. Want to send texts? Twilio’s Python library will help you. Want to make requests but don't want to use URLLib? Use requests. Want to parse a web page? Beautifulsoup has got you covered. Want to do some encryption, you got pycrypto. And I'm aware there are a ton of libraries for a ton of languages, but they just don't feel the same as Python.
 
@@ -69,3 +69,6 @@ There is a library for almost anything you want to do. Want to send texts? Twili
 It probably takes 4–5x as long to build a C++ program over a Python program.
 
 Theres so much more to Python than I described. It's a great language and you should definitely try it out.
+
+
+<h2>3. Xubuntu<small> elegant</small></h2>
