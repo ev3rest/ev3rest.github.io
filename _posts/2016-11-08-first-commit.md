@@ -5,8 +5,7 @@ description: "Its ON, baby"
 headline: "Let's Fire up the Engines"
 categories: personal
 tags: 
-  - blogging
-  - jekyll
+  - blog
 imagefeature: "gtx.jpg"
 comments: false
 mathjax: null
