@@ -17,3 +17,7 @@ published: true
 >&quot;The beginning is the most important part of the work.&quot;
 ><small><cite title="Plato">Plato</cite></small>
 
+Hi everyone, today I would like to share some tips for beginner developers. This post will include those packages, which I install on every new machine I own.
+
+1. fish shell
+
