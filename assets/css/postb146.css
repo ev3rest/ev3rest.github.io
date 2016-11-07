@@ -257,7 +257,7 @@ html, body, .summer-post-container, .summer-post-header {
     transition-timing-function: ease;
     transition-duration: 0.5s; }
   .post-template .intro-effect-sliced .bg-img:first-child {
-    bottom: 0%; }
+    bottom: 50%; }
   .post-template .intro-effect-sliced .bg-img:last-child {
     top: 50%;
     position: fixed;
