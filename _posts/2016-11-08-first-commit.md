@@ -19,5 +19,5 @@ published: true
 
 Hi everyone, today I would like to share some tips for beginner developers. This post will include those packages, which I install on every new machine I own.
 
-<h21. fish shell</h2>
+<h2>1. fish shell</h2>
 
