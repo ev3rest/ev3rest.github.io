@@ -35,7 +35,7 @@ Python is often compared to other interpreted languages such as Java, JavaScript
 
 
 By this I mean that the syntax of Python is extremely easy to learn and read. Python code is not that far off from actual English and pretty damn close to psuedocode. Sometimes, I'll copy psuedocode from Wikipedia, add a few colons and then I have a working Python program. And plus look at the turnary operators in Python vs C++
-
+<br>
 Python:
 
 <code>X = "hello" if True else "world"</code>
@@ -45,7 +45,7 @@ C++:
 <code>X = true ? "Hello" : "world";</code>
 
 Which one is more readable?
-
+<br>
 
 
 <b>Despite (or perhaps because of) the simple syntax, it's extremely expressive</b>
@@ -61,7 +61,7 @@ Things like packing and unpacking, generators, default arguments, the fact that 
 
 There is a library for almost anything you want to do. Want to send texts? Twilio’s Python library will help you. Want to make requests but don't want to use URLLib? Use requests. Want to parse a web page? Beautifulsoup has got you covered. Want to do some encryption, you got pycrypto. And I'm aware there are a ton of libraries for a ton of languages, but they just don't feel the same as Python.
 
-All this culminates to create a language that causes a programmer to feel great and more productive.
+<b>All this culminates to create a language that causes a programmer to feel great and more productive.</b>
 
 It probably takes 4–5x as long to build a C++ program over a Python program.
 
