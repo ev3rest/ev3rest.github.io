@@ -19,7 +19,7 @@ published: true
 Hi everyone, today I would like to share some tips for beginner developers. This post will include those packages, which I install on every new machine I own.
 
 <h2>1. fish shell<small> user-friendly</small></h2>
-Definitely, this is the best and most user-frienly shell I have ever seen. 
+Definitely, this is the best and most user-friendly shell I have ever seen. 
 
 
 One of fish’s best features is <b>autocompletion</b>. It knows what you’re thinking, and will gladly save you the keystrokes by finishing your command for you. Just press Tab.
