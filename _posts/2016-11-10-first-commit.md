@@ -18,7 +18,7 @@ published: true
 
 Hi everyone, today I would like to share some tips for beginner developers. This post will include those packages, which I install on every new machine I own.
 
-<h2>[1. fish shell](https://fishshell.com)<small> user-friendly</small></h2>
+<h2><a href="https://fishshell.com">1. fish shell</a><small> user-friendly</small></h2>
 Definitely, this is the best and most user-friendly shell I have ever seen. 
 
 
