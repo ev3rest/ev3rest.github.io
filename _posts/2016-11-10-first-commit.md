@@ -28,6 +28,7 @@ Although it’s an innovative feature, at least as far as terminal shells go, it
 
 
 Supports macOS, Windows, Linux and even tarball.
+<hr>
 
 <h2>2. Python 3<small> simple & clean</small></h2>
 Python is often compared to other interpreted languages such as Java, JavaScript, or Perl. <b>Python is a simple language.</b>
@@ -68,6 +69,6 @@ There is a library for almost anything you want to do. Want to send texts? Twili
 It probably takes 4–5x as long to build a C++ program over a Python program.
 
 Theres so much more to Python than I described. It's a great language and you should definitely try it out.
-
+<hr>
 
 <h2>3. Xubuntu<small> elegant</small></h2>
