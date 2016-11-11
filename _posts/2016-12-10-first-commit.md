@@ -70,5 +70,3 @@ It probably takes 4–5x as long to build a C++ program over a Python program.
 
 Theres so much more to Python than I described. It's a great language and you should definitely try it out.
 <hr>
-
-<h2>3. Xubuntu<small> elegant</small></h2>
