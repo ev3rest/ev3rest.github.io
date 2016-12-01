@@ -16,7 +16,7 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Python & Swift Developer, Musician
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        ev3restdev
+  twitter:        ev3dev
   facebook:       ev3rest.music
   github:         ev3rest     
   instagram:      ev3dev
