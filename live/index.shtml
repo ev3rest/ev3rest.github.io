@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Anime Bot | Live</title>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Last commands">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="og:site_name" content="Anime Bot"/>
+  <meta property="og:title" content="Anime Bot" />
+  <meta property="og:description" content="Last commands" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.ev3devs.com"/>
+
+  <link href="//www.google-analytics.com" rel="dns-prefetch">
+  <link href="//ajax.googleapis.com" rel="dns-prefetch">
+  <link href="//cdnjs.cloudflare.com" rel="dns-prefetch">
+  <link href="assets/css/style.min.css" rel="stylesheet">
+
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  <script async src="main.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic,300,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<script async src="main.js"></script>
+<script async src="https://code.jquery.com/jquery-2.1.4.js"></script>
+<script async src="https://raw.githubusercontent.com/DmitryBaranovskiy/raphael/master/raphael.js"></script>
+<div id="command" class="command">
+  <!--#include virtual="cmd.html"-->
+</div>
+<div class="paragraph">
+  <br>
+  <a href="https://telegram.me/anime_bot">@anime_bot</a>
+  <br>
+  
+</div>
+<style>
+a:link    {color:white; background-color:transparent; text-decoration:none}
+a:visited {color:white; background-color:transparent; text-decoration:none}
+a:hover   {color:gray; background-color:transparent; text-decoration:underline}
+a:active  {color:red; background-color:transparent; text-decoration:underline}
+</style>
+        
+
+
+</body>
+</html>
