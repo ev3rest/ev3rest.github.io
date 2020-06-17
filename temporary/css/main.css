@@ -3,15 +3,29 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: 'Open Sans', sans-serif;
+	-webkit-backface-visibility: hidden;
 }
 
-html{
-	background-image: url("../img/main1.png");
+.s1{
 	height: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-attachment: fixed;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+.s2{
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #tint{
@@ -46,13 +60,13 @@ html{
 }
 
 .topnav {
-	background: rgba(255, 255, 255, 0.47);
+	background: rgba(255, 255, 255, 1);
 	position: relative;
 	overflow: hidden;
-	height: 50px;
+	font-weight: 450;
+	height: 60px;
   	width: 100%;
   	grid-column: 1 / span 4;
-  	margin-top: 5%;
 }
 
 .topnav a {
@@ -73,13 +87,34 @@ html{
   transform: translate(-50%, -50%);
 }
 
-#videohere{
-	padding-top: 70px;
+.intro{
 	text-align: center;
+	align-items: center;
+
+	color: white;
+	font-weight: bold;
 }
 
-#gallery{
-	margin-top: 100px;
+.intro #name{
+	position: absolute;
+	font-size: 35px;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.intro #description{
+	font-size: 20px;
+	position: absolute;
+	padding-top: 140px;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#gallery {
+	padding-top: 100px;
+	color: #fff;
 }
 
 #gallery .row {
@@ -91,12 +126,11 @@ html{
 /* Create four equal columns that sits next to each other */
 #gallery .column {
   flex: 25%;
-  max-width: 50%;
-  padding: 0 4px;
+  max-width: 25%;
+  padding: 0 8px;
 }
 
 #gallery .column video {
-  margin-top: 8px;
   vertical-align: middle;
   width: 100%;
 }
