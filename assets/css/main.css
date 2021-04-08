@@ -169,7 +169,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #5c5c5c;
 		}
 
 	strong, b {
@@ -544,7 +544,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						text-shadow: 1.25px 0px 0px #5c5c5c, -1.25px 0px 0px #5c5c5c, 0px 1.25px 0px #5c5c5c, 0px -1.25px 0px #5c5c5c;
 					}
 
 					ul.icons li a:before {
