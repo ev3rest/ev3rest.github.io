@@ -6,16 +6,12 @@
   <title>
     Time until Puzo
   </title>
-  <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
   <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
-  <!-- Nucleo Icons -->
   <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
   <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-  <!-- Font Awesome Icons -->
   <link href="./assets/css/font-awesome.css" rel="stylesheet" />
   <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-  <!-- CSS Files -->
   <link href="./assets/css/argon-design-system.css?v=1.0.3" rel="stylesheet" />
 </head>
 <body>
@@ -28,29 +24,16 @@
 
 
 <script>
-// Set the date we're counting down to
 var countDownDate = new Date("Dec 25, 2021 12:00:00").getTime();
-
-// Update the count down every 1 second
 var x = setInterval(function() {
-
-  // Get today's date and time
   var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
   var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
   document.getElementById("timer").innerHTML = days + " days<br>" + hours + " hours "
   + minutes + " minutes " + seconds + " seconds";
-
-  // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
     document.getElementById("timer").innerHTML = "<3";
@@ -63,20 +46,20 @@ function darkmode() {
 </script>
 <style type="text/css">
 	body{
-		transition: all 2s ease;
+		transition: all 1s ease;
 	}
 	.maincontainer { 
-	  height: 200px;
-	  position: relative;
-	  border: 3px solid green; 
+		height: 200px;
+		position: relative;
+		border: 3px solid green; 
 	}
 	.nicecenter {
-	  margin: 0;
-	  position: absolute;
-	  top: 50%;
-	  left: 50%;
-	  -ms-transform: translate(-50%, -50%);
-	  transform: translate(-50%, -50%);
+		margin: 0;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		-ms-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
 	}
 	.dark-mode {
 		transition: all 2s ease;
